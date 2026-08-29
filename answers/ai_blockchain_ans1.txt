@@ -1,0 +1,71 @@
+QUESTION:
+Explain repo rate, SDF and MSF in the context of Indian monetary policy.
+
+ANSWER:
+In Indian monetary policy, the **repo rate, SDF and MSF** are key facilities used by the **Reserve Bank of India (RBI)** to manage liquidity and guide short-term interest rates.
+
+### 1. Repo rate
+
+**Repo** means “repurchase agreement.”
+
+- Under a repo operation, banks borrow short-term funds from the RBI.
+- They provide eligible government securities as collateral and agree to repurchase them later.
+- The **repo rate** is the interest rate charged by the RBI on such borrowing.
+- It is the RBI’s main policy rate and is decided by the **Monetary Policy Committee (MPC)**.
+
+**Effect of a change:**
+
+- **Repo rate cut:** Bank funding becomes cheaper, which can reduce lending rates, encourage borrowing and support economic activity.
+- **Repo rate hike:** Bank funding becomes more expensive, generally raising lending rates and helping contain inflation.
+
+The repo rate therefore acts as the main signal for the broader interest-rate structure in the economy.
+
+---
+
+### 2. Standing Deposit Facility (SDF)
+
+The **SDF** allows banks to deposit surplus funds with the RBI overnight and earn interest.
+
+- The RBI absorbs liquidity from banks.
+- Unlike repo or reverse repo transactions, the RBI **does not provide collateral** under the SDF.
+- It is primarily used when the banking system has excess liquidity.
+- The SDF rate generally forms the **floor of the RBI’s liquidity corridor**.
+
+For example, if banks have more funds than they can profitably lend, they may park the surplus with the RBI through the SDF.
+
+---
+
+### 3. Marginal Standing Facility (MSF)
+
+The **MSF** allows eligible banks to borrow overnight funds from the RBI, usually when they face an urgent or unexpected liquidity shortfall.
+
+- Banks borrow against eligible government securities.
+- They may also use a limited portion of their statutory liquidity holdings, subject to RBI rules.
+- The MSF rate is generally **higher than the repo rate**.
+- It forms the **ceiling of the RBI’s liquidity corridor**.
+
+Because it is relatively expensive, banks normally use the MSF as a last-resort or emergency source of funds.
+
+---
+
+### Relationship among the three
+
+A simplified representation of the operating corridor is:
+
+```text
+MSF rate       — Upper bound; banks borrow from RBI
+Repo rate      — Main policy rate
+SDF rate       — Lower bound; banks deposit with RBI
+```
+
+The overnight interbank call money rate is generally expected to move within this corridor.
+
+### In summary
+
+| Facility | What happens? | Collateral? | Main purpose |
+|---|---|---:|---|
+| **Repo** | Banks borrow from RBI | Yes | Main policy instrument and liquidity injection |
+| **SDF** | Banks deposit funds with RBI | No | Absorb surplus liquidity |
+| **MSF** | Banks borrow urgently from RBI | Yes | Provide overnight emergency liquidity |
+
+Together, these facilities help the RBI control short-term liquidity, anchor market interest rates and pursue its inflation and growth objectives.
